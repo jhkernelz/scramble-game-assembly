@@ -18,7 +18,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/jhkernelz">
         <img src="https://avatars3.githubusercontent.com/u/246403309" width="100px;" alt="Foto do jhkernelz no GitHub"/><br>
         <sub>
           <b>jhkernelz</b>
